@@ -23,9 +23,12 @@ Welcome to **The Snake Game**, a fun and classic game built in Java that explore
 ## 🚀 How to Run
 
 1. Make sure you have **Java JDK 8** or higher installed on your system.
-2. Download the **GAME.jar** file from the repository.
-3. Open a terminal or command prompt and navigate to the directory containing the **GAME.jar** file.
-4. Run the following command:
+2. Download the **GAME.jar** file from the repository
+3. You can now simply click on the download file anf play! 
+   Another option -
+4. Open a terminal or command prompt and navigate to the directory containing the **GAME.jar** file.
+5. Run the following command:
 
    ```bash
    java -jar GAME.jar
+6. The game window should open, and you can start playing!
